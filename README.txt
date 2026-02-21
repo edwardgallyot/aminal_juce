@@ -9,5 +9,5 @@ CMake is the build system.
 Debug:
 cmake --preset dbg . && cmake --build --preset dbg
 
-Debug:
+Release:
 cmake --preset rls . && cmake --build --preset rls
