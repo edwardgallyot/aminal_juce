@@ -3,3 +3,6 @@
 	url = https://github.com/juce-framework/JUCE.git
 
 
+[submodule "aminal_core"]
+	path = aminal_core
+	url = https://github.com/edwardgallyot/aminal_core.git
